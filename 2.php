@@ -1,12 +1,12 @@
 <?php
 class Friends
 {
-	function add()
+	function hi()
 	{
 
 	}
 
-	function delete()
+	function bye()
 	{
 
 	}
